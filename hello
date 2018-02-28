@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Script to say hello to the world
+# Author: Sanjiv K. Bhatia
+# Date: Feb 28, 2018
+
+echo "Hello World"
